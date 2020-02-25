@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TitTacToe</string>
+    <string name="netx_player">Turno: %1$s</string>
+    <string name="Ganador">Ganador: %1$s</string>
+</resources>
